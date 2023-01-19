@@ -3,11 +3,11 @@
 ### Airflow Interface :
 
 
-<img src="airflow_interface.PNG" width="700" align="center"/>
+<img src="airflow_interface.PNG" width="1000" align="center"/>
 
 
 ### Logs : 
 
 
-<img src="logs.PNG" width="700" align="center"/>
+<img src="logs.PNG" width="1000" align="center"/>
 
