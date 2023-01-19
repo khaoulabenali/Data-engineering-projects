@@ -3,4 +3,11 @@
 ### Airflow Interface :
 
 
-<img src="/assets/google-smith.jpeg" width="500" align="center"/>
+<img src="/airflow_interface.PNG" width="500" align="center"/>
+
+
+### Logs : 
+
+
+<img src="/logs.PNG" width="500" align="center"/>
+
