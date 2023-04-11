@@ -1,15 +1,10 @@
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-import time
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
+import time
 
 DRIVER_PATH = 'C:/Users/Data Science/Desktop/data engineering/freelance/recipe_scraping/chromedriver_win32/chromedriver.exe'
 options = Options()
